@@ -1,0 +1,15 @@
+{
+	"pages": [
+		"pages/index/index",
+		"pages/more/more"
+	],
+    "siteName": "lyl-Web",
+    "version": "1.0.0",
+    "created": "2024-06-10",
+    "author": "liuyulin",
+    "description": "Initial configuration for lyl-Web project.",
+    "settings": {
+        "theme": "default",
+        "language": "zh-cn"
+    }
+}
